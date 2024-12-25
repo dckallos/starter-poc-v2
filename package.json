@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@8.6.3",  // or your desired pnpm version
+  "packageManager": "pnpm@8.6.3",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
